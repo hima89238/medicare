@@ -1,0 +1,35 @@
+.navbar-brand{
+    font-size: larger;
+    color: aqua;
+    text-decoration: solid;
+    font-style:bold;
+}
+img{
+    background-position: center;
+    height: max-content;
+    margin-left:180px;
+
+    
+    
+    
+  }
+  h1{
+         font-size: 100px;
+        color: rgb(100, 74, 34);  
+        text-align: center;   
+          margin-top: 5px;
+          margin-bottom: 8px;
+          text-shadow: 2px 2px #0c0707;
+          
+          
+          
+  }
+  div.container{
+    padding-top: 30px;
+    margin-left: 150px;
+  }
+  p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    font-weight: bolder;
+  }
